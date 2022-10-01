@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+/* background-image: url("images.jpg"); */
+@media (min-width: 1025px) {
+  .h-custom {
+    height: 100vh !important;
+  }
+}
+body {
+  background-image: url("wp6704890.jpg");
+  min-width: 100%;
+  background-attachment: fixed;
+  background-position: center;
+}
+.crd {
+  backface-visibility: hidden;
+}

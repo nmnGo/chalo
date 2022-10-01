@@ -1,0 +1,386 @@
+[
+  {
+    "name": "balaji dham ,tehsil ,mandi ",
+    "coords": ["29.691189044886563", "77.67725584041965"]
+  },
+  {
+    "name": "gurudwara sahib, railway road",
+    "coords": ["29.687758345687794", "77.67571382196127"]
+  },
+  {
+    "name": "madan shoe store,main bazaar ",
+    "coords": ["29.690423804173996", "77.67804591122774"]
+  },
+  {
+    "name": "shree panchayati thakur dwara ,main bazaar ,sabzi mandi ",
+    "coords": ["29.691474806390797", "77.67840244827256"]
+  },
+  {
+    "name": "standard confectionary ,mbd chowk ",
+    "coords": ["29.690105080934474", "77.6775400475182"]
+  },
+  {
+    "name": "taanga adda ,bhaila road ",
+    "coords": ["29.689865785732536", "77.67704137375861"]
+  },
+  {
+    "name": "kingdom Of momos",
+    "coords": ["29.68721273508128", "77.67510718778996"]
+  },
+  {
+    "name": "subhash chowk",
+    "coords": ["29.686565565692987", "77.67472307295108"]
+  },
+  {
+    "name": "pnb,punjab national bank ,subhash chowk,railway road",
+    "coords": ["29.68616834355586", "77.674157642134"]
+  },
+  {
+    "name": "bob,bank of baroda ,railway road",
+    "coords": ["29.685844348827377", "77.6741832939047"]
+  },
+  {
+    "name": "aman vihar,subhash chowk,railway road",
+    "coords": ["29.686166660218312", "77.67445499477027"]
+  },
+  {
+    "name": "agrasen vihar,railway road",
+    "coords": ["29.68572677733014", "77.67433334207112"]
+  },
+  {
+    "name": "gym,sky lounge,railway road",
+    "coords": ["29.68554359508552", "77.6739739193897"]
+  },
+  {
+    "name": "dr dk jain ,opp. sbi ,railway road",
+    "coords": ["29.684531416752165", "77.67319192196857"]
+  },
+  {
+    "name": "government hospital, railwaty road",
+    "coords": ["29.68365434067311", "77.67232220111373"]
+  },
+  {
+    "name": "haspataal, railwaty road",
+    "coords": ["29.68365434067311", "77.67232220111373"]
+  },
+  {
+    "name": "punjabi colony,railway road",
+    "coords": ["29.683876845637553", "77.67332455622085"]
+  },
+  {
+    "name": "bsnl,railway road ",
+    "coords": ["29.681817163019122", "77.67017704251244"]
+  },
+  {
+    "name": "railway station ,railway road",
+    "coords": ["29.680211735662763", "77.67094247819945"]
+  },
+  {
+    "name": "nagar palika ,bhaila road",
+    "coords": ["29.691016209340454", "77.67471089494244"]
+  },
+  {
+    "name": "unani medical college ,gt road",
+    "coords": ["29.69119467454916", "77.68218505035924"]
+  },
+  {
+    "name": "balaji clothing store ,opp. jain ghadi ,jain street",
+    "coords": ["29.691905019328168", "77.67953492470313"]
+  },
+  {
+    "name": "bus stand ,gt road ",
+    "coords": ["29.693573607040886, 77.68403806223878"]
+  },
+  {
+    "name": "tej palace,shastri chowk",
+    "coords": ["29.686747869507265", "77.67219454035377"]
+  },
+  {
+    "name": "devi mandir,shree krishna gaushaala,",
+    "coords": ["29.683061360765233", "77.68538413186401"]
+  },
+  {
+    "name": "kaa shree tripur bala mandir ,near government pg college",
+    "coords": ["29.683061360765233", "77.68538413186401"]
+  },
+  {
+    "name": "khaatu shyam mandir,opp maata mandir ,degree college",
+    "coords": ["29.683061360765233", "77.68538413186401"]
+  },
+  {
+    "name": "civil court , gt road ",
+    "coords": ["29.683052732356117", "77.68106307590904"]
+  },
+  {
+    "name": "sdm court ,gt road",
+    "coords": ["29.683052732356117", "77.68106307590904"]
+  },
+  {
+    "name": "shifa hospital,sdm court",
+    "coords": ["29.681408294362786", "77.68212110354179"]
+  },
+  {
+    "name": "badi mandi ,rose vip guest house,gt road ",
+    "coords": ["29.67047652064783", "77.6822769362545"]
+  },
+  {
+    "name": "infinity college,near sai dham,gt road ,deoband",
+    "coords": ["29.662621780807367", "77.68114492644291"]
+  },
+  {
+    "name": "nitara farms,near sai dham,gt road ,deoband",
+    "coords": ["29.66086843072709", "77.68166438172233"]
+  },
+  {
+    "name": "doon hills academy,,near sai dham,gt road ,deoband",
+    "coords": ["29.65705071871702", "77.68316668633071"]
+  },
+  {
+    "name": "maples academy,gt road",
+    "coords": ["29.644389262679482", "77.68282983496972"]
+  },
+  {
+    "name": "shree sai dham mandir,gt road",
+    "coords": ["29.66680418761547", "77.6823758108642"]
+  },
+  {
+    "name": "shiv park ,teacher colony ,gt road",
+    "coords": ["29.680360955043003", "77.68034698212814"]
+  },
+  {
+    "name": "balaji department store ,teachers colony ,gt road",
+    "coords": ["29.679773754191984", "77.67903095131"]
+  },
+  {
+    "name": "bandhan bank,gandhi colony,teacher colony",
+    "coords": ["29.68072840120719", "77.67782213414122"]
+  },
+  {
+    "name": "radha krishna mandir,teacher colony",
+    "coords": ["29.681812860383094", "77.67647429024257"]
+  },
+  {
+    "name": "old shiv mandir,teachers colony ",
+    "coords": ["29.678859973213605", "77.67815843903996"]
+  },
+  {
+    "name": "purana shiv mandir ,teacher colony ",
+    "coords": ["29.678859973213605", "77.67815843903996"]
+  },
+  {
+    "name": "shivpuram colony,near jail,gt road",
+    "coords": ["29.674767810363075", "77.68086747014438"]
+  },
+  {
+    "name": "maharana pratap chowk,near ved vihar,backof teacher colony",
+    "coords": ["29.682124340346515", "77.67626471348099"]
+  },
+  {
+    "name": "middle of teacher colony, teacher colony ,deoband",
+    "coords": ["29.680671129075957", "77.6786395642809"]
+  },
+  {
+    "name": "the doon valley public school,industrial area",
+    "coords": ["29.6814440283523", "77.67489540234894"]
+  },
+  {
+    "name": "dr Kanta,near tonga adda ,railway road",
+    "coords": ["29.689002176508758", "77.67648166148727"]
+  },
+  {
+    "name": "kingdom of momos,near police station,subhash chowk",
+    "coords": ["29.6872184524752", "77.6751017080462"]
+  },
+  {
+    "name": "shastri chowk ,deoband",
+    "coords": ["29.687017269116424", "77.67284380433007"]
+  },
+  {
+    "name": "jahan garden,near shastri chowk,deoband",
+    "coords": ["29.68555867768588", "77.67176912899575"]
+  },
+  {
+    "name": "balaji vihar, near doon valley,industrial area",
+    "coords": ["29.68065597330503", "77.67531203686453"]
+  },
+  {
+    "name": "sk happy school,industrial area,deoband",
+    "coords": ["29.680344942003707", "77.67423182357689"]
+  },
+  {
+    "name": "triveni sugar mills ,deoband",
+    "coords": ["29.675158827573462", "77.66871699431444"]
+  },
+  {
+    "name": "roop garden,triveni sugar mills ,deoband",
+    "coords": ["29.67385329083237", "77.66514831954515"]
+  },
+  {
+    "name": "sarvodaya gyan public school,gt road",
+    "coords": ["29.703973563821073", "77.67408933227757"]
+  },
+  {
+    "name": "manglore chowki ,gt road,deoband",
+    "coords": ["29.69595544689416", "77.68462719957596"]
+  },
+  {
+    "name": "madhur milan banquet hall,near manglore choki ,deoband",
+    "coords": ["29.69623348638396", "77.6833556621248"]
+  },
+  {
+    "name": "hdfc bank-lic-pnb,gt road deoband",
+    "coords": ["29.695116735551395", "77.68458791607708"]
+  },
+  {
+    "name": "krishna palace,gt road",
+    "coords": ["29.691113143301095", "77.68269476611258"]
+  },
+  {
+    "name": "rk public school,gt road",
+    "coords": ["29.687326928389506", "77.68177202771452"]
+  },
+  {
+    "name": "prachi motors ,gt road",
+    "coords": ["29.682794537979976", "77.68148227270282"]
+  },
+  {
+    "name": "sbi-state bank of india,majnu vala road,gt road",
+    "coords": ["29.684954572608902", "77.68164432272846"]
+  },
+  {
+    "name": "vip guest house,gt road deoband",
+    "coords": ["29.684778653860768", "77.68226915989219"]
+  },
+  {
+    "name": "prakash hotel ,majnu vala road,deoband",
+    "coords": ["29.686321702155833", "77.6793011833109"]
+  },
+  {
+    "name": "manki mandir ,near hashimpura,sapla road",
+    "coords": ["29.703417032949563", "77.71819686041965"]
+  },
+  {
+    "name": "navjeevan nursing home.sapla road",
+    "coords": ["29.6972021918739", "77.68954156839654"]
+  },
+  {
+    "name": "mustafa garden,qasim pura road",
+    "coords": ["29.702430396474412", "77.66975886816428"]
+  },
+  {
+    "name": "",
+    "coords": [""]
+  },
+  {
+    "name": "",
+    "coords": [""]
+  },
+  {
+    "name": "",
+    "coords": [""]
+  },
+  {
+    "name": "",
+    "coords": [""]
+  },
+  {
+    "name": "",
+    "coords": [""]
+  },
+  {
+    "name": "",
+    "coords": [""]
+  },
+  {
+    "name": "",
+    "coords": [""]
+  },
+  {
+    "name": "",
+    "coords": [""]
+  },
+  {
+    "name": "",
+    "coords": [""]
+  },
+  {
+    "name": "",
+    "coords": [""]
+  },
+  {
+    "name": "",
+    "coords": [""]
+  },
+  {
+    "name": "",
+    "coords": [""]
+  },
+  {
+    "name": "",
+    "coords": [""]
+  },
+  {
+    "name": "",
+    "coords": [""]
+  },
+  {
+    "name": "",
+    "coords": [""]
+  },
+  {
+    "name": "",
+    "coords": [""]
+  },
+  {
+    "name": "",
+    "coords": [""]
+  },
+  {
+    "name": "",
+    "coords": [""]
+  },
+  {
+    "name": "",
+    "coords": [""]
+  },
+  {
+    "name": "",
+    "coords": [""]
+  },
+  {
+    "name": "",
+    "coords": [""]
+  },
+  {
+    "name": "",
+    "coords": [""]
+  },
+  {
+    "name": "",
+    "coords": [""]
+  },
+  {
+    "name": "",
+    "coords": [""]
+  },
+  {
+    "name": "",
+    "coords": [""]
+  },
+  {
+    "name": "",
+    "coords": [""]
+  },
+  {
+    "name": "",
+    "coords": [""]
+  },
+  {
+    "name": "",
+    "coords": [""]
+  },
+  {
+    "name": "",
+    "coords": [""]
+  }
+]
